@@ -1,0 +1,32 @@
+################################# team ###################################
+team:
+  title : "Our **Team** Members"
+  subtitle : >
+    Prometech is a startup created by two french engineering students whom are passionate about technology and innovation.  
+
+    We are currently working on a few projects such as an **AI Pentesting Tool** and a **Scraping Tool**.
+  teamMember:
+    # team member loop
+    - name : "Hugo Sibony"
+      image : "images/team/hugo_sibony.png"
+      designation : "Co-Founder & CEO | Developer"
+      email : "hugo@hugosibony.com"
+      socialLinks:
+        - icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/hsibony/"
+          
+        - icon : "ti-github" # themify icon pack https://themify.me/themify-icons
+          link : "https://github.com/KazeTachinuu"
+          
+    # team member loop
+    - name : "Maxence Leclercq"
+      image : "images/team/maxence_leclercq.png"
+      designation : "Co-Founder & COO | Marketing"
+      email : "maxence.leclercq297@gmail.com"
+      socialLinks:
+        - icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/maxence-leclercq-94195b222/"
+          
+        - icon : "ti-github" # themify icon pack https://themify.me/themify-icons
+          link : "https://github.com/Cargaison"
+          
