@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://prometech.in/"
+baseURL = "https://kazetachinuu.github.io/PrometechSite"
 languageCode = "en-us"
 title = "Prometech"
 theme = "gosaas-hugo"
